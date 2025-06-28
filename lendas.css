@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    text-align: center;
+}
+
+.logo{
+    padding-top: 0.5em;
+}
+
+h1 a{
+    text-decoration: none;
+    color: white;
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Cormont';
+    padding-bottom: 0.5em;
+    padding-top: 0.12em;
+}
+
+header{
+    background-color: black;
+}
+
+nav li{
+    display: inline-block;
+    text-align: center;
+    list-style-type: none;
+    padding: 0.5em;
+}
+
+.paginas{
+    text-align: center;
+}
+
+nav li a{
+    font-family: 'Cormont';
+    display: inline-block;
+    text-align: center;
+    padding: 1px 2cm;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    
+}
+
+nav li a:hover{
+    color: #F5BD26;
+}
+
+.sinopse{
+    text-align: center;
+    font-family:'Cormont';
+    padding: 1em;
+    text-decoration: underline #F5BD26;   
+}
+
+h2{
+    text-align: center;
+    font-family: 'Cormont';
+    margin-bottom: 0.5em;
+}
+
+figure{
+    text-align: center;
+}
+
+figure img{
+    margin-bottom: 0.5em;
+    border: 4px solid #F5BD26;
+    padding: 0.5em;
+}
+
+p{
+    font-family: 'Cormont';
+    text-align: justify;
+    margin-left: 13em;
+    margin-bottom: 0.5em;
+    margin-right: 13em;
+    font-size: larger;
+}
+
+.ultimo_paragrafo{
+    margin-bottom: 2em;
+}
+
+footer{
+    background-color: black;
+    padding: 2em;
+}
+
+footer address{
+    text-align: center;
+    font-family: 'Cormont';
+    color: white;
+}

@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    text-align: center;
+}
+
+.logo{
+    padding-top: 0.5em;
+}
+
+h1 a{
+    text-decoration: none;
+    color: white;
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Cormont';
+    padding-bottom: 0.5em;
+    padding-top: 0.12em;
+}
+
+header{
+    background-color: black;
+}
+
+nav li{
+    display: inline-block;
+    text-align: center;
+    list-style-type: none;
+    padding: 0.5em;
+}
+
+.paginas{
+    text-align: center;
+}
+
+nav li a{
+    font-family: 'Cormont';
+    display: inline-block;
+    text-align: center;
+    padding: 1px 2cm;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+nav li a:hover{
+    color: #F5BD26;
+}
+
+.destaque{
+    text-align: center;
+}
+
+.sinopse{
+    text-align: center;
+    font-family:'Cormont';
+    margin: 1em;
+    text-decoration: underline #F5BD26;   
+}
+
+
+h2{
+    text-align: center;
+    font-family: 'Cormont';
+    margin-bottom: 0.5em;
+}
+
+figure{
+    text-align: center;
+}
+
+.Fortune{
+    margin-bottom: 0.5em;
+    border: 4px solid #F5BD26;
+    padding: 0.5em;
+}
+
+h3{
+    display:block ;
+    text-align: center;
+}
+
+.gp{
+    display: block;
+    text-align: center;
+    padding-left: 15em;
+    padding-right: 15em;
+}
+
+.citação{
+    color:#F5BD26;
+    margin-bottom: 1em;
+}
+
+footer{
+    background-color: black;
+    padding: 2em;
+}
+
+footer address{
+    text-align: center;
+    font-family: 'Cormont';
+    color: white;
+}
